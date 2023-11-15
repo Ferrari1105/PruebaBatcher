@@ -1,0 +1,8 @@
+.switch-on {
+    background-color: lightgreen; /* Cambiar el color de fondo cuando el switch está encendido */
+  }
+  
+  .switch-off {
+    background-color: lightcoral; /* Cambiar el color de fondo cuando el switch está apagado */
+  }
+  
